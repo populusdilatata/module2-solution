@@ -14,12 +14,15 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+#### Header 4
 
 - Bulleted
 - List
+- And some more bulleted list
 
 1. Numbered
 2. List
+3. And so on...
 
 **Bold** and _Italic_ and `Code` text
 
